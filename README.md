@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+🔭 I'm Eni, a computer science student passionate about using code to solve problems around me. When I'm not coding, you can find me playing the guitar or delving into a good book.
+🌱 I’m currently on the lookout for a role in software development as an intern. If you're hiring, let's chat!
+Skills: 
+*Python & Flask
+*Java 
+*Javascript 
+*HTML & CSS
 <!--
 **enibalo/enibalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

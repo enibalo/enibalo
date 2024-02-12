@@ -3,10 +3,10 @@
 - 🌱 I’m currently on the lookout for a role in software development as an intern. If you're hiring, let's chat!
   
 ### Skills: 
-*Python & Flask
-*Java 
-*Javascript 
-*HTML & CSS
+* Python & Flask
+* Java 
+* Javascript 
+* HTML & CSS
 <!--
 **enibalo/enibalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

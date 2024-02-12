@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 - 🔭 I'm Eni, a computer science student passionate about using code to solve problems around me. When I'm not coding, you can find me playing the guitar or delving into a good book.
 - 🌱 I’m currently on the lookout for a role in software development as an intern. If you're hiring, let's chat!
   

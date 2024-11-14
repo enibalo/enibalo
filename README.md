@@ -4,7 +4,8 @@
   
 ### Languages: 
 * Python
-* Java 
+* Java
+* React
 * Javascript 
 * HTML & CSS
 * C
